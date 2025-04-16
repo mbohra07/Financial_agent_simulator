@@ -48,7 +48,7 @@ FINANCIAL_AGENT_SIMULATION/
 # SetUp Instructions
 
 1.⁠ ⁠Clone the repository:
-    git clone https://github.com/mbohra07/Financial_Agent_Simulation.git
+    git clone https://github.com/mbohra07/Financial_Agent_Simulator.git
 
 
 2.⁠ ⁠pip install -r requirements.txt
