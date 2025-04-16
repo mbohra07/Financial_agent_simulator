@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "financial_agent_simulation"
+version = "0.1.0"
+description = "financial agent simulation using crewAI"
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<=3.13"
+crewai = {extras = ["tools"], version = "^0.22.2"}
+
+[tool.poetry.scripts]
+financial_agent_simulation = "financial_agent_simulation.main:run"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,49 @@
+[
+  {
+    "date": "2023-03-01",
+    "inflows": {
+      "salary": 70000,
+      "freelance": 15000
+    },
+    "outflows": {
+      "rent": 25000,
+      "groceries": 8000,
+      "transport": 5000,
+      "entertainment": 5000,
+      "impulse_spending": 2000
+    },
+    "balance": 37000
+  },
+  {
+    "date": "2023-04-01",
+    "inflows": {
+      "salary": 70000,
+      "freelance": 18000,
+      "unexpected_income": 5000
+    },
+    "outflows": {
+      "rent": 25000,
+      "groceries": 9000,
+      "transport": 6000,
+      "entertainment": 8000,
+      "retail_therapy": 3000
+    },
+    "balance": 59300
+  },
+  {
+    "date": "2023-05-01",
+    "inflows": {
+      "salary": 70000,
+      "freelance": 20000
+    },
+    "outflows": {
+      "rent": 25000,
+      "groceries": 10000,
+      "transport": 7000,
+      "entertainment": 10000,
+      "medical": 8000,
+      "guilt_spending": 4000
+    },
+    "balance": 43800
+  }
+]
